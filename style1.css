@@ -1,0 +1,7 @@
+.a{
+    color: blueviolet;
+}
+.skillTable :hover {
+    color: aqua;
+    text-decoration-line: underline;
+}
